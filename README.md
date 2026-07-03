@@ -34,7 +34,8 @@ const yuri = {
 
 - Building enterprise React platforms at **StoneX**
 - Growing a company-wide frontend community
-- Mentoring on [ADPList](https://adplist.org/mentors/yuri-semenenko) — 500+ engineers trained over 8 years
+- Teaching HTML, CSS, Javascript/TypeScript - 500+ engineers trained over 8 years
+- Mentoring on [ADPList](https://adplist.org/mentors/yuri-semenenko)
 
 ## Connect
 
