@@ -9,7 +9,7 @@ I build and modernize frontend platforms for enterprise products — helping tea
 // profile.ts
 const yuri = {
   role: "Senior Frontend Engineer",
-  experience: "14+ years",
+  experience: "15+ years",
   focus: ["React", "Next.js", "TypeScript", "Frontend Architecture", "Performance"],
   interestedIn: ["Staff Engineering", "Platform Engineering", "AI-assisted Development"],
 } as const;
